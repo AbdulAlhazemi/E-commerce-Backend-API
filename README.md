@@ -1,7 +1,7 @@
 
 # E-commerce Backend API
 
-This is the backend for an e-commerce platform, built with **Node.js**, **Express**, and **MongoDB**. It provides RESTful API endpoints for managing products, orders, users, and authentication. This backend connects with a React frontend, styled with Tailwind CSS, to create a full-stack e-commerce application.
+This is the backend for an e-commerce platform, built with **Node.js**, **Express**, and **MongoDB**. It provides RESTful API endpoints for managing products, orders, users, and authentication.
 
 ---
 
